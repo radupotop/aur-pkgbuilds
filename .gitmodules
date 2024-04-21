@@ -1,0 +1,87 @@
+[submodule "zoho-cliq"]
+	path = zoho-cliq
+	url = ssh://aur@aur.archlinux.org/zoho-cliq.git
+[submodule "adwaita-icon-theme-41"]
+	path = adwaita-icon-theme-41
+	url = ssh://aur@aur.archlinux.org/adwaita-icon-theme-41.git
+[submodule "alsa-scarlett-gui-dev"]
+	path = alsa-scarlett-gui-dev
+	url = ssh://aur@aur.archlinux.org/alsa-scarlett-gui-dev.git
+[submodule "amber-search-git"]
+	path = amber-search-git
+	url = ssh://aur@aur.archlinux.org/amber-search-git.git
+[submodule "arrow-tools"]
+	path = arrow-tools
+	url = ssh://aur@aur.archlinux.org/arrow-tools.git
+[submodule "authy-export-git"]
+	path = authy-export-git
+	url = ssh://aur@aur.archlinux.org/authy-export-git.git
+[submodule "aws-lambda-powertools-python"]
+	path = aws-lambda-powertools-python
+	url = ssh://aur@aur.archlinux.org/aws-lambda-powertools-python.git
+[submodule "bsdiff"]
+	path = bsdiff
+	url = ssh://aur@aur.archlinux.org/bsdiff.git
+[submodule "cshatag"]
+	path = cshatag
+	url = ssh://aur@aur.archlinux.org/cshatag.git
+[submodule "formatjson"]
+	path = formatjson
+	url = ssh://aur@aur.archlinux.org/formatjson.git
+[submodule "lora-cyrillic-font"]
+	path = lora-cyrillic-font
+	url = ssh://aur@aur.archlinux.org/lora-cyrillic-font.git
+[submodule "nextdns-unprivileged"]
+	path = nextdns-unprivileged
+	url = ssh://aur@aur.archlinux.org/nextdns-unprivileged.git
+[submodule "oauth2c"]
+	path = oauth2c
+	url = ssh://aur@aur.archlinux.org/oauth2c.git
+[submodule "paru"]
+	path = paru
+	url = ssh://aur@aur.archlinux.org/paru.git
+[submodule "powerofforreboot.efi"]
+	path = powerofforreboot.efi
+	url = ssh://aur@aur.archlinux.org/powerofforreboot.efi.git
+[submodule "pulseaudio"]
+	path = pulseaudio
+	url = ssh://aur@aur.archlinux.org/pulseaudio.git
+[submodule "python-a2wsgi"]
+	path = python-a2wsgi
+	url = ssh://aur@aur.archlinux.org/python-a2wsgi.git
+[submodule "python-connexion"]
+	path = python-connexion
+	url = ssh://aur@aur.archlinux.org/python-connexion.git
+[submodule "python-django-axes"]
+	path = python-django-axes
+	url = ssh://aur@aur.archlinux.org/python-django-axes.git
+[submodule "python-django-ipware"]
+	path = python-django-ipware
+	url = ssh://aur@aur.archlinux.org/python-django-ipware.git
+[submodule "python-ulid"]
+	path = python-ulid
+	url = ssh://aur@aur.archlinux.org/python-ulid.git
+[submodule "scarlett2-firmware-git"]
+	path = scarlett2-firmware-git
+	url = ssh://aur@aur.archlinux.org/scarlett2-firmware-git.git
+[submodule "scarlett2-git"]
+	path = scarlett2-git
+	url = ssh://aur@aur.archlinux.org/scarlett2-git.git
+[submodule "sipgate-softphone"]
+	path = sipgate-softphone
+	url = ssh://aur@aur.archlinux.org/sipgate-softphone.git
+[submodule "sonata"]
+	path = sonata
+	url = ssh://aur@aur.archlinux.org/sonata.git
+[submodule "thunderbolt-utils"]
+	path = thunderbolt-utils
+	url = ssh://aur@aur.archlinux.org/thunderbolt-utils.git
+[submodule "usbmon"]
+	path = usbmon
+	url = ssh://aur@aur.archlinux.org/usbmon.git
+[submodule "yay"]
+	path = yay
+	url = ssh://aur@aur.archlinux.org/yay.git
+[submodule "zim-dev"]
+	path = zim-dev
+	url = ssh://aur@aur.archlinux.org/zim-dev.git
