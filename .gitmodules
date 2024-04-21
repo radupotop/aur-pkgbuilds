@@ -43,9 +43,6 @@
 [submodule "powerofforreboot.efi"]
 	path = powerofforreboot.efi
 	url = ssh://aur@aur.archlinux.org/powerofforreboot.efi.git
-[submodule "pulseaudio"]
-	path = pulseaudio
-	url = ssh://aur@aur.archlinux.org/pulseaudio.git
 [submodule "python-a2wsgi"]
 	path = python-a2wsgi
 	url = ssh://aur@aur.archlinux.org/python-a2wsgi.git
