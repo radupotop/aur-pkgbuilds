@@ -1,6 +1,3 @@
-[submodule "zoho-cliq"]
-	path = zoho-cliq
-	url = ssh://aur@aur.archlinux.org/zoho-cliq.git
 [submodule "adwaita-icon-theme-41"]
 	path = adwaita-icon-theme-41
 	url = ssh://aur@aur.archlinux.org/adwaita-icon-theme-41.git
@@ -19,9 +16,6 @@
 [submodule "aws-lambda-powertools-python"]
 	path = aws-lambda-powertools-python
 	url = ssh://aur@aur.archlinux.org/aws-lambda-powertools-python.git
-[submodule "bsdiff"]
-	path = bsdiff
-	url = ssh://aur@aur.archlinux.org/bsdiff.git
 [submodule "cshatag"]
 	path = cshatag
 	url = ssh://aur@aur.archlinux.org/cshatag.git
@@ -37,12 +31,6 @@
 [submodule "oauth2c"]
 	path = oauth2c
 	url = ssh://aur@aur.archlinux.org/oauth2c.git
-[submodule "paru"]
-	path = paru
-	url = ssh://aur@aur.archlinux.org/paru.git
-[submodule "powerofforreboot.efi"]
-	path = powerofforreboot.efi
-	url = ssh://aur@aur.archlinux.org/powerofforreboot.efi.git
 [submodule "python-a2wsgi"]
 	path = python-a2wsgi
 	url = ssh://aur@aur.archlinux.org/python-a2wsgi.git
@@ -67,18 +55,15 @@
 [submodule "sipgate-softphone"]
 	path = sipgate-softphone
 	url = ssh://aur@aur.archlinux.org/sipgate-softphone.git
-[submodule "sonata"]
-	path = sonata
-	url = ssh://aur@aur.archlinux.org/sonata.git
 [submodule "thunderbolt-utils"]
 	path = thunderbolt-utils
 	url = ssh://aur@aur.archlinux.org/thunderbolt-utils.git
 [submodule "usbmon"]
 	path = usbmon
 	url = ssh://aur@aur.archlinux.org/usbmon.git
-[submodule "yay"]
-	path = yay
-	url = ssh://aur@aur.archlinux.org/yay.git
 [submodule "zim-dev"]
 	path = zim-dev
 	url = ssh://aur@aur.archlinux.org/zim-dev.git
+[submodule "zoho-cliq"]
+	path = zoho-cliq
+	url = ssh://aur@aur.archlinux.org/zoho-cliq.git
