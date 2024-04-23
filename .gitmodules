@@ -55,9 +55,6 @@
 [submodule "sipgate-softphone"]
 	path = sipgate-softphone
 	url = ssh://aur@aur.archlinux.org/sipgate-softphone.git
-[submodule "thunderbolt-utils"]
-	path = thunderbolt-utils
-	url = ssh://aur@aur.archlinux.org/thunderbolt-utils.git
 [submodule "usbmon"]
 	path = usbmon
 	url = ssh://aur@aur.archlinux.org/usbmon.git
