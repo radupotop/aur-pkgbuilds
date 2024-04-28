@@ -61,3 +61,6 @@
 [submodule "zoho-cliq"]
 	path = zoho-cliq
 	url = ssh://aur@aur.archlinux.org/zoho-cliq.git
+[submodule "python-aws-lambda-powertools"]
+	path = python-aws-lambda-powertools
+	url = ssh://aur@aur.archlinux.org/python-aws-lambda-powertools.git
