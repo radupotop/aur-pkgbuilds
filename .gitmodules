@@ -13,9 +13,6 @@
 [submodule "authy-export-git"]
 	path = authy-export-git
 	url = ssh://aur@aur.archlinux.org/authy-export-git.git
-[submodule "aws-lambda-powertools-python"]
-	path = aws-lambda-powertools-python
-	url = ssh://aur@aur.archlinux.org/aws-lambda-powertools-python.git
 [submodule "cshatag"]
 	path = cshatag
 	url = ssh://aur@aur.archlinux.org/cshatag.git
