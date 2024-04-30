@@ -64,3 +64,6 @@
 [submodule "python-aws-lambda-powertools"]
 	path = python-aws-lambda-powertools
 	url = ssh://aur@aur.archlinux.org/python-aws-lambda-powertools.git
+[submodule "python-dr14_tmeter"]
+	path = python-dr14_tmeter
+	url = ssh://aur@aur.archlinux.org/python-dr14_tmeter
