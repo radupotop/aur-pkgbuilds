@@ -40,9 +40,6 @@
 [submodule "python-django-ipware"]
 	path = python-django-ipware
 	url = ssh://aur@aur.archlinux.org/python-django-ipware.git
-[submodule "python-ulid"]
-	path = python-ulid
-	url = ssh://aur@aur.archlinux.org/python-ulid.git
 [submodule "scarlett2-firmware-git"]
 	path = scarlett2-firmware-git
 	url = ssh://aur@aur.archlinux.org/scarlett2-firmware-git.git
